@@ -10,8 +10,8 @@ print("=", " "*9, "Authorized by Ananda Fikri", " "*9, "=")
 print("="*50)
 
 #membuat program perubahan waktu
-start   = str(input("masukkan waktu mulai (hh.mm)\t: "))
-end     = str(input("masukkan waktu selesai (hh.mm)\t: "))
+start   = str(input("input the started time (hh.mm)\t: "))
+end     = str(input("input the ended time (hh.mm)\t: "))
 
 #end point and algoritm conditional
 print("-"*50)
